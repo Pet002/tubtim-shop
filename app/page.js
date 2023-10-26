@@ -13,6 +13,10 @@ export default function Home() {
           <img src="./asset/case_iphone_black.jpg" className='w-[100%] rounded-t-xl h-[75%] object-cover'/>
           <p className='text-center'>เคส แบรนด์ MUSE</p>
         </a>
+        <a href="https://shope.ee/7f8g0czqgI" target='_blank' className="border rounded-xl flex flex-col gap-4 item-center w-full h-[15rem]">
+          <img src="./asset/airpod_case.jpg" className='w-[100%] rounded-t-xl h-[75%] object-cover'/>
+          <p className='text-center'>เคสแอร์พอร์ต vaseline</p>
+        </a>
       </div>
     </main>
   )
